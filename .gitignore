@@ -9,3 +9,7 @@
 *.sty
 *.toc
 *.hd
+*.fdb_latexmk
+*.fls
+*.ilg
+*.ind
