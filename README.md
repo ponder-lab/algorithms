@@ -34,11 +34,11 @@ you would like to generate the documentation, just use, say:
 ## Development and Support
 
 The source code for the bundle is currently hosted in a `git` repository at
-<https://github.com/rbrito/algorithms>.
+<https://github.com/khatchad/algorithms>.
 
 The author welcomes any contribution and also tries to address any bugs
 or feature requests that may be filed on the issue tracker at
-<https://github.com/rbrito/algorithms/issues>.
+<https://github.com/khatchad/algorithms/issues>.
 
 
 ## The License
