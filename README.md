@@ -49,4 +49,4 @@ released under the standard LaTeX license (the LaTeX Project Public
 License).
 
 
- -- Rogério Brito <rbrito@ime.usp.br>  Wed, 08 Nov 2017 05:23:56 -0200
+ -- Raffi Khatchadourian <khatchad@hunter.cuny.edu>  Th, 11 Sep 2025 16:05:29 -0400
