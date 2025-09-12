@@ -37,8 +37,8 @@ The source code for the bundle is currently hosted in a `git` repository at
 <https://github.com/khatchad/algorithms>.
 
 The author welcomes any contribution and also tries to address any bugs
-or feature requests that may be filed on the issue tracker at
-<https://github.com/khatchad/algorithms/issues>.
+or feature requests that may be filed on the issue tracker on the upstream
+repository at <https://github.com/rbrito/algorithms/issues>.
 
 
 ## The License
